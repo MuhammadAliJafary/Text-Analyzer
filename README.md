@@ -19,7 +19,3 @@ text-analyzer/
 │── main.py              # Demo program
 ```
 
-**Features**
-
-The analyzer includes the following recursive functions:
-
